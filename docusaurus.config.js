@@ -60,9 +60,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "NFT Protect",
         logo: {
-          alt: "My Site Logo",
+          alt: "NFT Protect Logo",
           src: "img/logo.svg",
         },
         items: [
